@@ -34,6 +34,13 @@ namespace TwitchRecordMerger.Container
             RECORD_ID_TO_NICKNAME["godevil_09"] = "고악마";
             RECORD_ID_TO_NICKNAME["layered20"] = "이렛";
             RECORD_ID_TO_NICKNAME["andyandy77"] = "바사삭하군요";
+            RECORD_ID_TO_NICKNAME["rupin074"] = "뿅아가";
+            RECORD_ID_TO_NICKNAME["myosonge"] = "묘송이";
+            RECORD_ID_TO_NICKNAME["qorgid108"] = "수백향";
+            RECORD_ID_TO_NICKNAME["kimina98"] = "이냐냐";
+            RECORD_ID_TO_NICKNAME["flower_soom__"] = "꽃솜";
+            RECORD_ID_TO_NICKNAME["pyoleem1"] = "표림";
+            RECORD_ID_TO_NICKNAME["jingbear_"] = "징곰";
         }
     }
 }
